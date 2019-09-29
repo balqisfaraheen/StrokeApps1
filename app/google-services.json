@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151426947112",
+    "firebase_url": "https://strokeapps1.firebaseio.com",
+    "project_id": "strokeapps1",
+    "storage_bucket": "strokeapps1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151426947112:android:8aa7d2629e3cba68c13d1d",
+        "android_client_info": {
+          "package_name": "com.example.strokeapps1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151426947112-pc4hhs4gkmlag0a3aprjvhfpuprfjrq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strokeapps1",
+            "certificate_hash": "fbb15d73ffc7615167e5474b06c5e5985a13a9d5"
+          }
+        },
+        {
+          "client_id": "151426947112-t2vmkc553ch0n75k3atgjvn45ohf0gsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFYO_6WdbNFcdq70ekwFQ7fC19dCsWYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151426947112-t2vmkc553ch0n75k3atgjvn45ohf0gsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
